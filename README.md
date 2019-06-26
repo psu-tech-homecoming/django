@@ -1,2 +1,2 @@
 # django
-Setting up Django on the Kanto VM
+This repository will be used to collaborate on the Django framework for the Kanto project.
